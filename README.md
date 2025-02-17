@@ -4,7 +4,7 @@ The goal of this project is to develop a powerful chess AI capable of defeating 
 To facilitate development and experimentation, a dataset will be provided for reference.
 
 
-## Disclaimer: This project was made as a University Assingment and is only meant to use fro educational purposes. If you are thinking of using this in your project kindly please nothify the creator(MrYaqoob).
+### Disclaimer: This project was created as a university assignment and is intended for educational purposes only. If you wish to use this in your own project, please notify the creator (MrYaqoob).
 
 
 ### Key Features & Methodology:
