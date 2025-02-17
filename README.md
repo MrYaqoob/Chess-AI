@@ -1,7 +1,8 @@
 # Chess-AI
 The goal of this project is to develop a powerful chess AI capable of defeating today's grandmasters. The AI has been trained using real-world chess data sourced from Lichess. Specifically, the dataset used for training was downloaded from lichess.org and consists of games played in November and December 2013.
 
-To facilitate development and experimentation, a dataset will be provided for reference.
+- To facilitate development and experimentation, a dataset will be provided for reference(If you prefer, you can download the dataset from the following Google Drive link: (https://drive.google.com/file/d/1qKQznojM3ZZRPb_0VmocumKOr1ZULNDY/view?usp=drive_link), or access it directly from Lichess Database (https://database.lichess.org).).
+- This code was written in Jupyter Notebook using the Python programming language.
 
 
 ### Disclaimer: This project was created as a university assignment and is intended for educational purposes only. If you wish to use this in your own project, please notify the creator (MrYaqoob).
